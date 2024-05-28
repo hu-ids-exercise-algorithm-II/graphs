@@ -1,0 +1,9 @@
+# Delaunary, 5 nodes, 8 edges, weight exp-10
+2 0 {'weight': 9}
+2 1 {'weight': 14}
+2 3 {'weight': 2}
+2 4 {'weight': 1}
+0 1 {'weight': 4}
+0 3 {'weight': 1}
+1 4 {'weight': 16}
+3 4 {'weight': 1}
